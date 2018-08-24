@@ -24,6 +24,7 @@ This library is verified to work with following banks.
 - [ ] Bank f Orden u Mission Zndl vr bk Untertaunus
 - [ ] Bank für Kirche und Caritas eG
 - [ ] Bank für Kirche und Diakonie eG
+- [ ] Bank für Sozialwirtschaft
 - [ ] Bank im Bistum Essen eG
 - [ ] Bank Sarasin
 - [ ] Bank Schilling & Co
